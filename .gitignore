@@ -1,0 +1,11 @@
+target/
+test-output/
+.classpath
+.project
+.DS_STORE
+.settings/
+.externalToolBuilders
+maven-eclipse.xml
+*.iml
+.idea/
+*.log
