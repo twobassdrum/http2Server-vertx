@@ -6,7 +6,7 @@ response to the client with http2 server push
 
 clone git
 
-`git clone git@github.com:twobassdrum/http2Server-vertx.git`
+`git clone https://github.com/twobassdrum/http2Server-vertx`
 
 compile and execute
 
